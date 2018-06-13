@@ -10,3 +10,9 @@ It is possible to:
 
 
 *NB: This server runs asciidoctor locally and shows local files, so you probably don't want to open this to the internet*
+
+# Installation
+
+```
+go get -u github.com/mpcjanssen/adocsrv/...
+```
